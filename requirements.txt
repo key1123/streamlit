@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+pillow
+numpy
+pandas
+scipy
+soundfile
+torch
+transformers
+openai
